@@ -1,7 +1,7 @@
 import { Star } from "phosphor-react";
 import { Route, Routes } from "react-router-dom";
 import { Event } from "./Pages/Event";
-import { Start } from "./Pages/start";
+import { Start } from "./Pages/Start";
 import { Subscribe } from "./Pages/Subscribe";
 
 export function Router() {
